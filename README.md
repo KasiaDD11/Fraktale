@@ -14,5 +14,6 @@ Bardziej organiczny model fraktala wykorzystujący rekurencję rozgałęzioną.
 * **Logika:** Funkcja rysuje pień, a następnie wywołuje samą siebie dwukrotnie (dla lewej i prawej gałęzi) pod określonym kątem i ze zmniejszoną długością.
 * **Zastosowanie:** Symulacja systemów wzrostu roślin.
 <img width="395" height="306" alt="Screenshot 2026-01-23 at 16 21 58" src="https://github.com/user-attachments/assets/241afd7b-a442-4fd7-81be-5c2181e31f7a" />
+
 Złożoność wizualna rośnie wykładniczo wraz ze wzrostem stopnia rekurencji.
 
