@@ -17,4 +17,4 @@ Bardziej organiczny model fraktala wykorzystujący rekurencję rozgałęzioną.
 
 Złożoność wizualna rośnie wykładniczo wraz ze wzrostem stopnia rekurencji.
 
-* Katarzyna Dubis 242355
+# Katarzyna Dubis 242355
