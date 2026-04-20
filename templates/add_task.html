@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+{% block title %}ToDo List - ping{% endblock %}
+    {% block content %}
+    <h2>Dodawanie zadania</h2>
+
+    <form method="post">
+        <input type="text" name="title" placeholder="Tytuł zadania" value="{{title}}">
+        <button type="submit">Wyślij</button>
+
+
+    </form>
+    <a href="{{ url_for('list_tasks') }}">Powrót</a>
+    {% endblock %}
